@@ -1,7 +1,6 @@
 alpine
 ubuntu:latest
 nginx:1.22.0-alpine
-nginx:1.22.2-alpine
 nginx:1.26.1-alpine
 mysql:5.7-debian
 mysql:8.0.31-debian
