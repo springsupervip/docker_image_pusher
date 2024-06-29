@@ -10,7 +10,7 @@ redis:6.0.5-alpine
 wordpress:latest
 wordpress:6.5.4
 wordpress:6.5.3-php8.2-fpm
-ordpress:6.5.3-php8.3-fpm-alpine
+wordpress:6.5.3-php8.3-fpm-alpine
 tomcat:9.0.90-jdk8-temurin-jammy
 perl:5.39.10-slim-bullseye
 fluentd:latest
