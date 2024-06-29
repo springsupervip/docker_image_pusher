@@ -3,7 +3,6 @@ redis:6.2.14
 redis:7.2.4
 mysql:8.0.31
 mysql:5.7.44
-jenkins:latest
 jenkins:2.60.3
 jenkins:2.60.3-alpine
 nginx:1.18.0
